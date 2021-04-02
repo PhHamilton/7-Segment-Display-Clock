@@ -4,7 +4,7 @@
 The inspiration for this project originates from the 7-segment displays used in household appliances, but instead of using a digital display, I wanted to utilize servo motors. The motors are able to rotate the front by 90 degrees, which enables it to display both numbers and various characters. 
 
 <p align="center">
-  <img width="460" height="300" src="Images/7-SegmentExample.png">
+  <img src="Images/7-SegmentExample.png">
 </p>
 
 
